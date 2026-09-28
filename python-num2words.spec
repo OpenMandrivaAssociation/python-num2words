@@ -17,3 +17,4 @@ Modules to convert numbers to words. Easily extensible.
 
 %files
 %{py_sitedir}/*
+%{_bindir}/num2words
