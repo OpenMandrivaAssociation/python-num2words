@@ -1,6 +1,6 @@
 Name:		python-num2words
 Version:	0.5.14
-Release:	1
+Release:	2
 Summary:	Modules to convert numbers to words. Easily extensible
 License:	LGPL-2.1-or-later
 Group:		Development/Python
